@@ -22,7 +22,7 @@ INSTALLATION:
 mkdir swiggy  (mkdir is to create a folder)
 cd swiggy  (cd is to go inside folder)
 yum install git -y
-git init  (to get .git folder)  - your local repository
+git init  (to get .git folder)  - your local empty git repository
 
 
 
