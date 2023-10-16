@@ -247,7 +247,8 @@ anymore
 it wil not tarck and commit the files.
 
 Q. What is the difference between Master and Main Branch?
-A. when you start extracting files and implementing it automatically you will get the main branch there so there you have to do all the activities merge, pull ... and eventually it all goes to the master branch.
+A. when you start extracting files and implementing it automatically you will get the main branch 
+there so there you have to do all the activities merge, pull ... and eventually it all goes to the master branch.
 
 Q. Which generation is the Git comes under?
 A. Git comes under 3 rd. generation of VCS.
