@@ -200,6 +200,8 @@ git remote add origin https://github.com/venkatesh06119/my-class-notes-space.git
 github removed password option in aug 2021, from then we are using tokens.
 Token will be visible only once.
 
+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
+
 
 Settings -- > Developer Settings -- > personal access token -- > classic -- > generate tokne -- > classic -- > 
 
