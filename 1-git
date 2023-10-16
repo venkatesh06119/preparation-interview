@@ -456,5 +456,117 @@ HISTORY:
 
 
 
+=================================git - interview quesitions ============================
 
+1. what is github ?
+    GitHub is a code hosting platform for version control and collaboration
+    its a place where we can store code on internet.
+    everyone can access the code.
+    daily we can do push and pull activites.
+2. How to use GitHub?
+     Step 0: Install git and create a GitHub account. ...
+     Step 1: Create a local git repository. ...
+     Step 2: Add a new file to the repo. ...
+     Step 3: Add a file to the staging environment. ...
+     Step 4: Create a commit. ...
+     Step 5: Create a new branch.
+     step 6: Now push that branch to the repo
+3. What is a Branch in GitHub?
+    BRANCH:
+    Branch means an individual line of development.
+    we can develop the code separately.
+    Each feature on the application was initially developed on an individual branch only.
+    the default branch is master.
+    we need to do initial commit for the master branch.
+Q. What is a git Pull?
+     To receive files from central (GitHub) to local (.git)
+     To get the difference in files : PULL
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================
 
