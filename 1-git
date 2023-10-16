@@ -214,70 +214,40 @@ git config user.email "raham@gamil.com"
     Each feature on the application was initially developed on an individual branch only.
     the default branch is master.
     we need to do initial commit for the master branch.
-Q. What is a git Pull?
+4. What is a git Pull?
      To receive files from central (GitHub) to local (.git)
      To get the difference in files : PULL
     
-
-    
-
-
-
+5. What is meant by Git repository?
+    Git is a program that tracks changes made to files. ... A Git repository is the. git/ folder inside a      
+    project. This repository tracks all changes made to files in your project, building a history over time
 
 
+Q. What is meant by fork in GitHub?
+A. Fork is a rough copy of the repository which allows you to test and debug the changes with 
+changes and it does not affect the original code anymore.
 
+Q. What is the difference between a fork and a branch in Git?
+A. Branching and forking provide two ways of diverging from the main code line. ... So, unlike a      
+branch, a fork is independent from the original repository. If the original repository is deleted, the      
+fork remains. If you fork a repository, you get that repository and all of its branches.
 
+Q. What is Git Fetch?
+A. git fetch is the command that tells your local git to retrieve the latest meta-data info from the     
+original
+To show the difference in files: FETCH
 
+Q. What is .gitignore file ?
+A. if you want to ignore some specific siles you can mention where and those files won’t be tracked
+anymore
+.gitignore: to ignore the files which we dont want.
+it wil not tarck and commit the files.
 
+Q. What is the difference between Master and Main Branch?
+A. when you start extracting files and implementing it automatically you will get the main branch there so there you have to do all the activities merge, pull ... and eventually it all goes to the master branch.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Q. Which generation is the Git comes under?
+A. Git comes under 3 rd. generation of VCS.
 
 
 
