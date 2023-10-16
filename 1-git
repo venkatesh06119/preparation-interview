@@ -25,6 +25,22 @@ yum install git -y
 git init  (to get .git folder)
 
 
+[root@ip-172-31-37-109 git-2]# git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in /root/git-2/.git/
+
+
+
+
 touch file2	: create a file
 git status	: to check the file is tracking or not
 git add file2	: to track the file2
@@ -179,7 +195,7 @@ everyone can access the code.
 daily we can do push and pull activites.
 
 
-git remote add origin https://github.com/mohammedowais641/instagram.git
+git remote add origin https://github.com/venkatesh06119/my-class-notes-space.git
 
 github removed password option in aug 2021, from then we are using tokens.
 Token will be visible only once.
@@ -433,3 +449,9 @@ HISTORY:
    96  git commit -m "jav22" java2
    97  git log
    98  history
+
+
+
+
+
+
