@@ -199,6 +199,7 @@ git config user.email "raham@gamil.com"
     its a place where we can store code on internet.
     everyone can access the code.
     daily we can do push and pull activites.
+
 2. How to use GitHub?
      Step 0: Install git and create a GitHub account. ...
      Step 1: Create a local git repository. ...
@@ -207,6 +208,7 @@ git config user.email "raham@gamil.com"
      Step 4: Create a commit. ...
      Step 5: Create a new branch.
      step 6: Now push that branch to the repo
+
 3. What is a Branch in GitHub?
     BRANCH:
     Branch means an individual line of development.
@@ -214,6 +216,7 @@ git config user.email "raham@gamil.com"
     Each feature on the application was initially developed on an individual branch only.
     the default branch is master.
     we need to do initial commit for the master branch.
+
 4. What is a git Pull?
      To receive files from central (GitHub) to local (.git)
      To get the difference in files : PULL
